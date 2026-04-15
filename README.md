@@ -11,6 +11,7 @@
 
 ## 🌟 Open Source
   - **[Ascend/ray-ascend](https://github.com/Ascend/ray-ascend)** (Maintainer): Hccl collective, Ascend direct tensor transport
+  - **[openeuler/yuanrong-datasystem](https://atomgit.com/openeuler/yuanrong-datasystem)** (Maintainer): RDMA support and optimization based on OpenUCX
   - **[Ascend/TransferQueue](https://github.com/Ascend/TransferQueue)** (Committer): Zero-copy serialization, Performance benchmark
   - **[ray-project/ray](https://github.com/ray-project/ray)**: Performance fixes, Observability features, Collective refactor
   - **[cupy/cupy](https://github.com/cupy/cupy)**: NCCL `commSplit` support
