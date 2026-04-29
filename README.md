@@ -3,7 +3,7 @@
   📧 [tianyig@outlook.com](mailto:tianyig@outlook.com) | 🔗 [github.com/tianyi-ge](https://github.com/tianyi-ge) | 📝 [zhihu/ge-tian-yi](https://www.zhihu.com/people/ge-tian-yi-75) | 💼 [linkedin/tianyi-ge](https://www.linkedin.com/in/tianyi-ge-09033b1b6/)
 
   Currently interested in
-   - **Agentic RL Frameworks**: High-performance replay buffer for off-policy RL, Inference resource pooling, Sandbox
+   - **Agentic RL Frameworks**: High-performance replay buffer for off-policy RL, Inference resource pooling, Triton basics
    - **High-Performance Networking**: Application of UCX/RDMA, Zero-copy transport, Metadata management
    - **Hardware-Software Co-Design**: Large-scale EDA tool, HPC, MPI, LLC cache-hit optimization
 
@@ -20,8 +20,10 @@
 
 ## 🛠️ Skilled Tech Stack
 
-  - C/C++ · Python · Cython · Go · Kubernetes · Docker · Bazel
-  - Distilling my problem-solving workflow to skills
+  - C/C++ · Python · Cython · Go · Triton
+  - Kubernetes · Docker · Bazel
+
+  Distilling my problem-solving -> problem-finding -> problem-defining skills...
 
   ---
 
